@@ -1,0 +1,37 @@
+*{margin: 0; padding: 0; user-select: none;}
+
+h1
+{
+	background-color: purple;
+	padding-top: 100px;
+	font-weight: bold;
+	text-align:center;
+	font-size: 80px;
+	font-family: "Lucida Console", "Courier New", monospace;
+  border: 10px solid black;
+}
+
+p
+{
+	background-color: purple;
+	padding-top: 100px;
+	text-align:center;
+	font-size: 50px;
+	font-family: "Lucida Console", "Courier New", monospace;
+	padding-left: 500px;
+	padding-right: 500px;
+	left: 550px;
+	position: absolute;
+	word-wrap: break-word;
+	padding: 50px;
+	width: 600px;
+  border: 10px solid black;
+  padding: 50px;
+}
+
+.big-background
+{
+	background-color: white;
+}
+
+

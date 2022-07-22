@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Birthday</title>
+		<link type="text/css" rel="stylesheet" href="css/style.css">
+		<script src="js/script.js"></script>
+		
+	</head>
+	<body class="big-background">
+	<h1>Welcome to the website!</h1>
+	<p>Hopefully you are enjoying you're day!</p>
+	
+	</body>
+</html>
+			
